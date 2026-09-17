@@ -1,0 +1,7 @@
+{
+  "countryName": "India",
+  "countryCode": "IN",
+  "regexPattern": "^[1-9][0-9]{5}$",
+  "errorMessage": "Postal code must be a 6-digit Indian PIN code and cannot start with 0."
+}
+
